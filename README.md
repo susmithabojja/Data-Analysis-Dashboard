@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-Data-Analysis Dashboard focused on transforming raw data into meaningful insights using data cleaning, exploration, KPI analysis, and visualization. The project identifies trends, patterns, and key performance indicators to support data-driven business decisions.
+# Sales-Performance-Data-Analysis(Interactive Dashboard creation using MS Excel )
+## Project Objective
+To create an annual sales report using 2022 and 2023 years records. so, that we can estimate the updates and growths for future years
