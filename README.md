@@ -24,7 +24,8 @@ To create an annual sales report using 2022 and 2023 years records. so, that we 
 -	Identified key business insights.
 
 ## Dashbboard 
-<img width="1255" height="617" alt="Dashboard image" src="https://github.com/user-attachments/assets/999b8f7c-ae87-40b6-88a6-7fd7a7471f10" />
+<img width="1319" height="657" alt="Dashboard image" src="https://github.com/user-attachments/assets/f0bae916-3859-4f3b-ba62-9e228d18ea84" />
+
 
 ## Project Insights
 -	Electronics generates the highest revenue.
