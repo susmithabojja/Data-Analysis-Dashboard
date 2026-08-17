@@ -1,8 +1,11 @@
 # Sales-Performance-Data-Analysis(Interactive Dashboard creation using MS Excel )
+
 ## Project Objective
 To create an annual sales report using 2022 and 2023 years records. so, that we can estimate the updates and growths for future years.
+
 ## Dataset Used
 - <a href="https://github.com/susmithabojja/Data-Analysis-Dashboard/blob/main/Sales%20Performance.xlsx">Dataset</a>
+
 ## Questions (KPIs)
 -	What is the total revenue?
 -	Which product and region perform best?
@@ -11,6 +14,7 @@ To create an annual sales report using 2022 and 2023 years records. so, that we 
 -	How do discounts and quantity affect revenue?
 -	What is the average customer rating?
 -	Dashboard Interaction <a href="https://github.com/susmithabojja/Data-Analysis-Dashboard/blob/main/Dashboard%20image.png">view Dashboard</a>
+
 ## Process
 -	Collected and reviewed the Excel sales data.
 -	Cleaned and organized the data.
@@ -18,6 +22,7 @@ To create an annual sales report using 2022 and 2023 years records. so, that we 
 -	Compared products, regions, months, and payment methods.
 -	Analyzed discounts, quantity, price, and customer ratings.
 -	Identified key business insights.
+
 ## Dashbboard 
 <img width="1255" height="617" alt="Dashboard image" src="https://github.com/user-attachments/assets/999b8f7c-ae87-40b6-88a6-7fd7a7471f10" />
 
@@ -29,6 +34,7 @@ To create an annual sales report using 2022 and 2023 years records. so, that we 
 -	Higher price and quantity are strongly associated with revenue.
 -	Discounts have only a weak relationship with revenue.
 -	The average customer rating of 2.96/5 shows room for improving customer satisfaction.
+
 ## Final Conclusion
 The business has strong sales performance, mainly driven by Electronics and the North region. Future growth can be achieved by focusing on high-value products, improving weaker regions, using targeted discounts, and improving customer satisfaction.
 
